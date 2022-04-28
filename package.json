@@ -124,7 +124,7 @@
     "expiry-js": "0.1.7",
     "exports-loader": "0.6.2",
     "expose-loader": "0.7.0",
-    "extract-text-webpack-plugin": "0.8.2",
+    "extract-text-webpack-plugin": "2.0.0",
     "file-loader": "0.8.4",
     "flot-charts": "0.8.3",
     "font-awesome": "4.4.0",
